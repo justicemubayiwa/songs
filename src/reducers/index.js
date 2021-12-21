@@ -1,0 +1,5 @@
+const songsReducer =  () => {
+    return [
+        {title: ''}
+    ]
+}
